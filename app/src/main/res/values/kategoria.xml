@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategoria">
+
+        <item>Motor</item>
+        <item>Karosszéria</item>
+        <item>Futómű</item>
+        <item>Elektronika</item>
+        <item>Olajcsere</item>
+        <item>Vezérműszíjcsere</item>
+        <item>Fékcsere</item>
+
+    </string-array>
+</resources>

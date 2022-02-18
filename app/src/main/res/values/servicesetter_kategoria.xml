@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="servicesetter_kategoria">
+        <item>Olajcsere</item>
+        <item>Vezérműszíjcsere</item>
+        <item>Fékcsere</item>
+    </string-array>
+
+    <string-array name="servicesetter_tipus">
+        <item>Kilóméter múlva</item>
+        <item>Adott napon</item>
+    </string-array>
+</resources>

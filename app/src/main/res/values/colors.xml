@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="darkblue">#222831</color>
+    <color name="grey">#393e46</color>
+    <color name="blue">#00adb5</color>
+    <color name="white">#eeeeee</color>
+    <color name="lightblue">#79CBE5</color>
+    <color name="pigeon">#7285A5</color>
+    <color name="lila">#acb6e5</color>
+    <color name="furcsakek">#86fde8</color>
+    <color name="buttonzold">#28b023</color>
+
+    <color name="bt_zold_kezdo">#11998e</color>
+    <color name="bt_zold_vege">#38ef7d</color>
+
+    <color name="bt_piros_kezdo">#e52d27</color>
+    <color name="bt_piros_vege">#b31217</color>
+
+    <color name="bt_kek_kezdo">#1488CC</color>
+    <color name="bt_kek_vege">#2B32B2</color>
+
+</resources>
